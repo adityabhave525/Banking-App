@@ -1,15 +1,6 @@
-- Clone the repo
+#Banking App like Paytm and Google Pay
 
-```jsx
-git clone https://github.com/100xdevs-cohort-2/week-17-final-code
-```
-
-- npm install
-- Run postgres either locally or on the cloud (neon.tech)
-
-```jsx
-docker run  -e POSTGRES_PASSWORD=mysecretpassword -d -p 5432:5432 postgres
-```
+Run npm run dev and use the application
 
 - Copy over all .env.example files to .env
 - Update .env files everywhere with the right db url
