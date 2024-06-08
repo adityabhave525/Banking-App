@@ -1,4 +1,4 @@
-#Banking App like Paytm and Google Pay
+# Banking App like Paytm and Google Pay
 
 Run npm run dev and use the application
 
